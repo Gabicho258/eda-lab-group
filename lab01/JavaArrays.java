@@ -18,9 +18,11 @@ public class JavaArrays {
             for (int j = 0; j < matriz[i].length; j++) {
                 matriz[i][j] = (int) (Math.random() * 9) + 1;
                 System.out.print(matriz[i][j] + " ");
+                suma += matriz[i][j];
             }
             System.out.println();
         }
 
+        System.out.println("Suma:" + suma);
     }
 }
