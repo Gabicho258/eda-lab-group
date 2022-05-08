@@ -8,7 +8,7 @@ public class JavaArrays {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Ingrese m y luego n (enteros)");
+        System.out.println("Ingrese m(fila) y luego n(columna) (enteros)");
         int m = sc.nextInt();
         int n = sc.nextInt();
         int matriz[][] = new int[m][n];
