@@ -84,11 +84,21 @@ Crear un repositorio personal y desarrollar el ejercicio resuelto en clase
 
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO
     <pre><ul>
-        <li>¿Por qué Git y GitHub son herramientas importantes para el curso?</li>Estas herramientas nos permiten tener varias versiones del trabajo que hagamos además de poder documentr nuestro pensamiento y tener un backup en caso se pierda el codigo guardado en nuestra máquina local. Además, nos permite realizar trabajo en equipo usando distintas ramas lo cual es fundamental en la vida de un desarrollador.
+        <li>¿Por qué Git y GitHub son herramientas importantes para el curso?</li>
+Estas herramientas nos permiten tener varias versiones del trabajo que hagamos además 
+de poder documentar nuestro pensamiento y tener un backup en caso se pierda el codigo 
+guardado en nuestra máquina local. Además, nos permite realizar trabajo en equipo 
+usando distintas ramas lo cual es fundamental en la vida de un desarrollador.
         <li>¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de
-Control de Versiones?</li>Si bien git nos permite colaborar en equipo cuando   trabajamos en un proyecto, puede ocurrir la situación donde algunos no aporten al código mientras hay un avance, por eso se debe promover el avance mutuo, también, el mejoramiento del proyecto, es decir si se repartieron clases o partes del proyecto y ya terminado se ve que hay código óptimo para lo que ya existe, se debe colaborar dando sugerencias puesto que github promueve el avance del equipo, no de uno solo.
+Control de Versiones?</li>
+Si bien git nos permite colaborar en equipo cuando  trabajamos en un proyecto, 
+puede ocurrir la situación donde algunos no aporten al código mientras hay un
+avance, por eso se debe promover el avance mutuo, también, el mejoramiento del
+proyecto, es decir si se repartieron clases o partes del proyecto y ya terminado 
+se ve que hay código óptimo para lo que ya existe, se debe colaborar dando 
+sugerencias puesto que github promueve el avance del equipo, no de uno solo.
         <li>¿Qué son los entándares de codificación?</li>
-   Son las buenas prácticas o un conjunto de normas no formales, que han sido
+Son las buenas prácticas o un conjunto de normas no formales, que han sido
 sugeridas por diversas comunidades de desarrolladores a lo largo del tiempo.
 Cuando estás son aplicadas de una manera correcta puede mejorar la calidad del 
 código en el que se implementó.
