@@ -105,11 +105,13 @@ código en el que se implementó.
     <ul>                                                                                         
     </p>
     </td></tr>
-<tr><td>III. CONCLUSIONES
-  <pre><ul>                                                                                          </pre>
-  <il>Aprendimos a usar github de manera colaborativa.</il>
-  <il>Aprendimos a crear ramas, movernos entre ellas y establecer sentencias de git desde nuestras ramas.</il>
-  <il>Repasamos algunos funciones de java ya antes vistas.</il>
+<tr><td>III.CONCLUSIONES 
+    <pre><ul>
+        <il>Aprendimos a usar github de manera colaborativa.</il>
+        <il>Aprendimos a crear ramas, movernos entre ellas y establecer sentencias de git desde nuestras ramas.</il>
+        <il>Repasamos algunos funciones de java ya antes vistas.</il>
+    <ul>                                                                                         
+    </p>
     </td></tr>
 </tbody>
 </table>
