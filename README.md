@@ -61,8 +61,16 @@
 </theader>
 <tbody>
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
-    <pre>                                                                                          </pre>
+    <pre>                                               Trabajo grupal:
+    <ul>
+        <li>Se creo y configurlo una cuenta de github</li>
+        <li>Se creo un proyecto grupal con ramas para cada integrante</li>
+        <img src="drive.google.com/uc?export=view&id=1cEqhibxf2vXhXRdmujlp3tBXgJNmjOJq">
+        <li>Se creo un archivo con cada uno de los temas del manual de w3cholls (Java Tutorial y Java methods)</li>
+
+                                               </pre>
     </td></tr>
+
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO
     <pre>                                                                                          </pre>
     </td></tr>
