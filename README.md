@@ -18,7 +18,7 @@
 </table>
 </div>
 
-<div align="center">
+<div>
 <span style="font-weight:bold;">INFORME DE LABORATORIO</span><br />
 <span>(formato estudiante)</span>
 
@@ -61,14 +61,16 @@
 </theader>
 <tbody>
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
-    <pre>                                               Trabajo grupal:
+    <pre>Trabajo grupal:
     <ul>
         <li>Se creo y configurlo una cuenta de github</li>
         <li>Se creo un proyecto grupal con ramas para cada integrante</li>
-        <img src="drive.google.com/uc?export=view&id=1cEqhibxf2vXhXRdmujlp3tBXgJNmjOJq">
-        <li>Se creo un archivo con cada uno de los temas del manual de w3cholls (Java Tutorial y Java methods)</li>
+        <img src="https://drive.google.com/uc?export=view&id=1cEqhibxf2vXhXRdmujlp3tBXgJNmjOJq">
+        <li>Se creo un archivo con cada uno de los temas del manual de w3scholls (Java Tutorial y Java methods)</li>
+        <img src = "http://drive.google.com/uc?export=view&id=1HzcWXwZf37-ifkAC_9bx8q0zfNG8VOTO">
+    <ul>
 
-                                               </pre>
+    </pre>
     </td></tr>
 
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO
