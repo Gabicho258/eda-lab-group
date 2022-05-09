@@ -66,9 +66,19 @@
         <li>Se creo y configurlo una cuenta de github</li>
         <li>Se creo un proyecto grupal con ramas para cada integrante</li>
         <img src="https://drive.google.com/uc?export=view&id=1cEqhibxf2vXhXRdmujlp3tBXgJNmjOJq">
-        <li>Se creo un archivo con cada uno de los temas del manual de w3scholls (Java Tutorial y Java methods)</li>
-        <img src = "http://drive.google.com/uc?export=view&id=1HzcWXwZf37-ifkAC_9bx8q0zfNG8VOTO" width="440" height="220">
+        <li>Se creo un archivo con cada uno de los temas del manual de w3scholls 
+(Java Tutorial y Java methods)</li>
+        <img src = "http://drive.google.com/uc?export=view&id=1HzcWXwZf37-ifkAC_9bx8q0zfNG8VOTO" width="580" height="290">
     <ul>
+Trabajo individual:
+Crear un repositorio personal y desarrollar el ejercicio resuelto en clase
+<ul>
+<li><a href="">FRANCO CARDENAS</a></li>
+<li><a href="">BARBARA CARRILLO</a></li>
+<li><a href="">BRYAN HANCOO</a></li>
+<li><a href="">GABRIEL</a></li>
+<li><a herf="">CARLO</a></li>
+</ul>
 
    </pre>
 </td></tr>
