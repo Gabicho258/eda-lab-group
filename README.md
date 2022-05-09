@@ -39,7 +39,7 @@
 <ul>
 <li>Barbara Carrillo Daza - bcarrillo@unsa.edu.pe</li>
 <li>Bryan Hancco Condori - bhanccoco@unsa.edu.pe</li>
-<li>Carlo Rodrigo Diaz Portillo - cdiazpor@unsa.edu.pe</li>
+<li>Carlo Rodrigo Diaz Portilla - cdiazpor@unsa.edu.pe</li>
 <li>Franco Cárdenas Martinez - fcardenasm@unsa.edu.pe</li>
 <li>Gabriel Anthony Mamani Cañari - gmamanican@unsa.edu.pe</li>
 </ul>
@@ -76,7 +76,7 @@ Crear un repositorio personal y desarrollar el ejercicio resuelto en clase
 <li><a href="">BARBARA CARRILLO</a></li>
 <li><a href="https://github.com/bryanhancco/HolaMundo">BRYAN HANCOO</a></li>
 <li><a href="https://github.com/Gabicho258/eda">GABRIEL MAMANI</a></li>
-<li><a href="">CARLO</a></li>
+<li><a href="https://github.com/CarloDiazP/eda1">CARLO DIAZ</a></li>
 </ul>
 
    </pre>
