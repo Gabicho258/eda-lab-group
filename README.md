@@ -83,13 +83,14 @@ Crear un repositorio personal y desarrollar el ejercicio resuelto en clase
 </td></tr>
 
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO
-    <pre>                                                                                          </pre>
-    <ul>
+    <pre><ul>
         <li>¿Por qué Git y GitHub son herramientas importantes para el curso?</li>
-        <li>¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema
-        de Control de Versiones?</li>
+        <li>¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?</li>
         <li>¿Qué son los entándares de codificación?</li>
-    </ul>
+   Son las buenas prácticas o un conjunto de normas no formales, que han sido sugeridas por diversas comunidades de desarrolladores a lo largo del tiempo.
+Cuando estás son aplicadas de una manera correcta puede mejorar la calidad del código en el que se implementó.
+    </ul>                                                                                         
+    </pre>
     </td></tr>
 <tr><td>III. CONCLUSIONES
     <pre>                                                                                          </pre>
