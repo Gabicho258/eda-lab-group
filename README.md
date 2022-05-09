@@ -73,7 +73,7 @@ Trabajo individual:
 Crear un repositorio personal y desarrollar el ejercicio resuelto en clase
 <ul>
 <li><a href="https://github.com/francoCarMar/Eda-lab01-indivudual">FRANCO CARDENAS</a></li>
-<li><a href="">BARBARA CARRILLO</a></li>
+<li><a href="https://github.com/Barbara280801/repositorioIndividual1.git">BARBARA CARRILLO</a></li>
 <li><a href="https://github.com/bryanhancco/HolaMundo">BRYAN HANCOO</a></li>
 <li><a href="https://github.com/Gabicho258/eda">GABRIEL MAMANI</a></li>
 <li><a href="https://github.com/CarloDiazP/eda1">CARLO DIAZ</a></li>
