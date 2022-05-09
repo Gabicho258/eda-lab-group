@@ -67,11 +67,11 @@
         <li>Se creo un proyecto grupal con ramas para cada integrante</li>
         <img src="https://drive.google.com/uc?export=view&id=1cEqhibxf2vXhXRdmujlp3tBXgJNmjOJq">
         <li>Se creo un archivo con cada uno de los temas del manual de w3scholls (Java Tutorial y Java methods)</li>
-        <img src = "http://drive.google.com/uc?export=view&id=1HzcWXwZf37-ifkAC_9bx8q0zfNG8VOTO">
+        <img src = "http://drive.google.com/uc?export=view&id=1HzcWXwZf37-ifkAC_9bx8q0zfNG8VOTO" width="440" height="220">
     <ul>
 
-    </pre>
-    </td></tr>
+   </pre>
+</td></tr>
 
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO
     <pre>                                                                                          </pre>
