@@ -61,8 +61,7 @@
 </theader>
 <tbody>
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
-    <pre>Trabajo grupal:
-    <ul>
+    <pre>Trabajo grupal:<ul>
         <li>Se creo y configurlo una cuenta de github</li>
         <li>Se creo un proyecto grupal con ramas para cada integrante</li>
         <img src="https://drive.google.com/uc?export=view&id=1cEqhibxf2vXhXRdmujlp3tBXgJNmjOJq">
@@ -77,7 +76,7 @@ Crear un repositorio personal y desarrollar el ejercicio resuelto en clase
 <li><a href="">BARBARA CARRILLO</a></li>
 <li><a href="">BRYAN HANCOO</a></li>
 <li><a href="">GABRIEL</a></li>
-<li><a herf="">CARLO</a></li>
+<li><a href="">CARLO</a></li>
 </ul>
 
    </pre>
@@ -85,6 +84,12 @@ Crear un repositorio personal y desarrollar el ejercicio resuelto en clase
 
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO
     <pre>                                                                                          </pre>
+    <ul>
+        <li>¿Por qué Git y GitHub son herramientas importantes para el curso?</li>
+        <li>¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema
+        de Control de Versiones?</li>
+        <li>¿Qué son los entándares de codificación?</li>
+    </ul>
     </td></tr>
 <tr><td>III. CONCLUSIONES
     <pre>                                                                                          </pre>
