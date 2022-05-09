@@ -106,7 +106,10 @@ código en el que se implementó.
     </p>
     </td></tr>
 <tr><td>III. CONCLUSIONES
-    <pre>                                                                                          </pre>
+  <pre><ul>                                                                                          </pre>
+  <il>Aprendimos a usar github de manera colaborativa.</il>
+  <il>Aprendimos a crear ramas, movernos entre ellas y establecer sentencias de git desde nuestras ramas.</il>
+  <il>Repasamos algunos funciones de java ya antes vistas.</il>
     </td></tr>
 </tbody>
 </table>
