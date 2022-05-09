@@ -75,7 +75,7 @@ Crear un repositorio personal y desarrollar el ejercicio resuelto en clase
 <li><a href="https://github.com/francoCarMar/Eda-lab01-indivudual">FRANCO CARDENAS</a></li>
 <li><a href="">BARBARA CARRILLO</a></li>
 <li><a href="">BRYAN HANCOO</a></li>
-<li><a href="">GABRIEL</a></li>
+<li><a href="https://github.com/Gabicho258/eda">GABRIEL MAMANI</a></li>
 <li><a href="">CARLO</a></li>
 </ul>
 
