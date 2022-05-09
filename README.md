@@ -73,7 +73,7 @@
 Trabajo individual:
 Crear un repositorio personal y desarrollar el ejercicio resuelto en clase
 <ul>
-<li><a href="">FRANCO CARDENAS</a></li>
+<li><a href="https://github.com/francoCarMar/Eda-lab01-indivudual">FRANCO CARDENAS</a></li>
 <li><a href="">BARBARA CARRILLO</a></li>
 <li><a href="">BRYAN HANCOO</a></li>
 <li><a href="">GABRIEL</a></li>
