@@ -22,7 +22,6 @@
 <span style="font-weight:bold;">INFORME DE LABORATORIO</span><br />
 <span>(formato estudiante)</span>
 
-
 <table>
 <theader>
 <tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
@@ -41,7 +40,7 @@
 <li>Barbara Carrillo Daza - bcarrillo@unsa.edu.pe</li>
 <li>Bryan Hancco Condori - bhanccoco@unsa.edu.pe</li>
 <li>Carlo Rodrigo Diaz Portillo - cdiazpor@unsa.edu.pe</li>
-<li>Franco Cárdenas Martines - fcardenasm@unsa.edu.pe</li>
+<li>Franco Cárdenas Martinez - fcardenasm@unsa.edu.pe</li>
 <li>Gabriel Anthony Mamani Cañari - gmamanican@unsa.edu.pe</li>
 </ul>
 </td>
@@ -72,7 +71,6 @@
     </td></tr>
 </tbody>
 </table>
-
 
 <table>
 <theader>
