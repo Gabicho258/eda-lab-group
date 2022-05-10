@@ -57,10 +57,11 @@
 
 <table>
 <theader>
-<tr><th>Solución y resultados</th></tr>
+<tr><th><b> SOLUCIÓN Y RESULTADOS</b></th></tr>
 </theader>
 <tbody>
-<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
+<tr><td><b>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</b>
+ <tr><td>
     <pre>Trabajo grupal:<ul>
         <li>Se creo y configurlo una cuenta de github</li>
         <li>Se creo un proyecto grupal con ramas para cada integrante</li>
@@ -77,13 +78,12 @@ Crear un repositorio personal y desarrollar el ejercicio resuelto en clase
 <li><a href="https://github.com/bryanhancco/HolaMundo">BRYAN HANCOO</a></li>
 <li><a href="https://github.com/Gabicho258/eda">GABRIEL MAMANI</a></li>
 <li><a href="https://github.com/CarloDiazP/eda1">CARLO DIAZ</a></li>
-</ul>
-
-   </pre>
+</ul></pre>
+</td></tr>
 </td></tr>
 
-<tr><td>II. SOLUCIÓN DEL CUESTIONARIO
-    <pre><ul>
+<tr><td><b>II. SOLUCIÓN DEL CUESTIONARIO</b>
+    <tr><td><ul>
         <li>¿Por qué Git y GitHub son herramientas importantes para el curso?</li>
 Estas herramientas nos permiten tener varias versiones del trabajo que hagamos además 
 de poder documentar nuestro pensamiento y tener un backup en caso se pierda el codigo 
@@ -103,14 +103,15 @@ sugeridas por diversas comunidades de desarrolladores a lo largo del tiempo.
 Cuando estás son aplicadas de una manera correcta puede mejorar la calidad del 
 código en el que se implementó.
     <ul>                                                                                         
+    </td></tr>
     </p>
     </td></tr>
 <tr><td>III.CONCLUSIONES 
-    <pre><ul>
-        <il>Aprendimos a usar github de manera colaborativa.</il>
-        <il>Aprendimos a crear ramas, movernos entre ellas y establecer sentencias de git desde nuestras ramas.</il>
-        <il>Repasamos algunos funciones de java ya antes vistas.</il>
-    <ul>                                                                                         
+    <tr><td>
+        <li>Aprendimos a usar github de manera colaborativa.</li>
+        <li>Aprendimos a crear ramas, movernos entre ellas y establecer sentencias de git desde nuestras ramas.</li>
+        <li>Repasamos algunos funciones de java ya antes vistas.</li>
+    </td></tr>
     </p>
     </td></tr>
 </tbody>
@@ -123,7 +124,6 @@ código en el que se implementó.
 </theader>
 <tbody>
 <tr><td>
-    <pre>                                                                                          </pre>
     <pre>                                                                                          </pre>
     </td></tr>
 </tbody>
